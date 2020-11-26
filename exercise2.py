@@ -1,5 +1,4 @@
-person = {}
-# 人物为键,说的话为值,其中,说的话,是由一个列表所囊括的
+
 f = open("talk.txt", "r")
 for each_line in f:
     if each_line[0:] != '\n':  # 分行

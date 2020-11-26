@@ -1,7 +1,3 @@
-"""
- 编写一个函数，传入端口名称，返回这个端口运行情况中所描述
-的address地址信息。
-"""
 import re
 
 def get_address(port):
